@@ -4,7 +4,9 @@ body {
 
 #banner {
     width:100%;
+}
 
+.principal{
 
  h1{
     style="text-align:center
@@ -21,6 +23,14 @@ p{
 em strong
     color: #FF0000;
 
+.itens {
+       font-style: italic
+}
 
+.beneficios{
+    background: #FFFFFF;
+}
 
+h2 {
+    text-align:center;
    
