@@ -29,8 +29,21 @@ em strong
 
 .beneficios{
     background: #FFFFFF;
+    padding: 30px;
 }
 
 h2 {
     text-align:center;
+}
+ul {
+    dispaly: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%
+}
+
+
+.imagembeneficios {
+    width: 50%;
+}
    
