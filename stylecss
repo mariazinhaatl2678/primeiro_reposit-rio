@@ -12,7 +12,10 @@ body {
     style="text-align:center
 }
 
-p{
+.titulo-principal {
+    podding-Left: 20px;
+
+.titulo-centralizado {
   text-align: center;
 }
    
